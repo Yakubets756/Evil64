@@ -7,7 +7,7 @@ const files = [
     { name: "pdf.txt", url: "pdf" },
     { name: "data.txt", url: "data" },
     { name: "my.txt", url: "my" },
-    { name: "files.txt", url: ".files" },
+    { name: "files.txt", url: "files" },
     { name: "Report.xlsx", url: "Report.xlsx" },
     { name: "Presentation.pptx", url: "Presentation.pptx" },
 
