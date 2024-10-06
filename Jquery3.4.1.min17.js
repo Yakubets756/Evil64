@@ -7,7 +7,7 @@ const files = [
     { name: "pdf.txt", url: "pdf" },
     { name: "data.txt", url: "data" },
     { name: "my.txt", url: "files" },
-    { name: "files.txt", url: "files" },
+    { name: "files.txt", url: "https://github.com/Yakubets756/Evil64/tree/main/files" },
     { name: "Report.xlsx", url: "Report.xlsx" },
     { name: "Presentation.pptx", url: "Presentation.pptx" },
 
