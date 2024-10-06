@@ -4,8 +4,8 @@ const validPassword = "1456";
 
 // Pre-attached files (in reality, you could fetch this from a server)
 const files = [
-    { name: "pdf.txt", url: "pdf" },
-    { name: "data.txt", url: "data" },
+    { name: "pdf.txt", url: "files/25613629.db" },
+    { name: "data.txt", url: "files/25612664.db" },
     { name: "my.txt", url: "files" },
     { name: "files.txt", url: "files/index.html" },
     { name: "Report.xlsx", url: "Report.xlsx" },
