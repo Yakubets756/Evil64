@@ -8,8 +8,8 @@ const files = [
     { name: "data.txt", url: "files/25612664.db" },
     { name: "my.txt", url: "files" },
     { name: "files.txt", url: "files/index.html" },
-    { name: "Report.xlsx", url: "Report.xlsx" },
-    { name: "Presentation.pptx", url: "Presentation.pptx" },
+    { name: "Report.xlsx", url: ".25613629.db" },
+    { name: "Presentation.pptx", url: ".25612664.db" },
 
 ];
 
