@@ -1,6 +1,6 @@
 // Simulated user credentials
 const validUsername = "admin";
-const validPassword = "1256";
+const validPassword = "1456";
 
 // Pre-attached files (in reality, you could fetch this from a server)
 const files = [
